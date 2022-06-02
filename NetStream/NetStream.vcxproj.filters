@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="NetStream.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
@@ -47,13 +47,13 @@
     <ClInclude Include="String.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="TransportNetwork.h">
+    <ClInclude Include="FlowNetwork.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
     <ClInclude Include="FileParser.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
-    <ClInclude Include="TransportNode.h">
+    <ClInclude Include="FlowNode.h">
       <Filter>Исходные файлы</Filter>
     </ClInclude>
   </ItemGroup>
